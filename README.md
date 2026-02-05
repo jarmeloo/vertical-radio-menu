@@ -10,7 +10,7 @@ Este projeto tem como objetivo explorar animações, estados e interações visu
 
 ---
 
-##🧩 Funcionalidades
+## 🧩 Funcionalidades
 
 🎚️ Menu vertical com seleção por radio button  
 ✨ Destaque visual na opção ativa  
@@ -19,21 +19,21 @@ Este projeto tem como objetivo explorar animações, estados e interações visu
 
 ---
 
-##🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 HTML5  
 CSS3  
 
 ---
 
-##🚀 Como Utilizar
+## 🚀 Como Utilizar
 
 Acesse no navegador:  
 https://vertical-radio-menu.netlify.app/
 
 ---
 
-##📝 Observações
+## 📝 Observações
 
 Este projeto foi desenvolvido para aprendizado, experimentação visual e prática de animações em CSS, podendo ser adaptado para menus laterais, seleção de planos ou dashboards.
 
