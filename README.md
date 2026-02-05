@@ -1,4 +1,4 @@
-# 🎛️ Vertical Radio Menu (CSS UI Component)
+# 🎛️ Vertical Radio Menu
 
 Componente de menu vertical desenvolvido com **HTML e CSS**, utilizando radio buttons estilizados e um indicador visual animado que acompanha a opção selecionada, criando uma experiência moderna e fluida sem uso de JavaScript.
 
@@ -29,7 +29,7 @@ CSS3
 ## 🚀 Como Utilizar
 
 Acesse no navegador:  
-https://vertical-radio-menu.netlify.app/
+https://jarmeloo.github.io/vertical-radio-menu/
 
 ---
 
