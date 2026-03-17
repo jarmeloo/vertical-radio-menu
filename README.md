@@ -21,8 +21,8 @@ Este projeto tem como objetivo explorar animações, estados e interações visu
 
 ## 🛠️ Tecnologias Utilizadas
 
-HTML5  
-CSS3  
+HTML  
+CSS  
 
 ---
 
